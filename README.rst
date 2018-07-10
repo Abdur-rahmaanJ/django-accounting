@@ -10,6 +10,13 @@ Check the associated project
 integration of the *django-accounting* application that you can deploy
 with one click to Heroku.
 
+.. image:: django_accounting_logo.png
+   :width: 200px
+   :height: 200px
+   :scale: 50 %
+   :alt: django accounting logo
+   :align: right
+
 Requirements
 ------------
 
